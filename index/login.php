@@ -67,7 +67,7 @@
           <div class="table">
             <div class="table-cell">
               <div class="login100-form-avatar">
-                <img src="../image/avatar-01.png" alt="AVATAR">
+                <img src="../image/avatar-01.PNG" alt="AVATAR">
               </div>
             </div>
           </div>
