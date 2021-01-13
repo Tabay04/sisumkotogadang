@@ -79,7 +79,7 @@ $hasil=get_skmd($no);
             <div class="col-sm-2">
             </div>
             <div class="col-sm-1">
-                <img style='height:100px;' class="img-responsive" src="../../image/Agam1.png" alt="" srcset="">
+                <img style='height:100px;' class="img-responsive" src="../../image/Agam1.PNG" alt="" srcset="">
             </div>
             <br>
             <div class="col-sm-6" style="text-align:center;" > 
